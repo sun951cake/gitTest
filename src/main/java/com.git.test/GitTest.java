@@ -6,4 +6,9 @@ public class GitTest {
 
         System.out.println("切换到分支测试。。。");
     }
+
+    public void createBranch2(){
+
+        System.out.println("创建了分支v1.1");
+    }
 }
